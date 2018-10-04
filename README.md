@@ -3,8 +3,8 @@
 This assessment tests your understanding of loops, objects, arrays, and basic functions.
 
 ## Guidelines
-  - Do not use any presentations from teh class or any notes you have taken.
-  - **You may NOT look at code you have previously written.**.
+  - Do not use any presentations from the class or any notes you have taken.
+  - **You may NOT look at code you have previously written**.
   - The only resource you may use online is the [MDN docs](https://developer.mozilla.org/en-US/).
   - Make sure you give yourself a grade before turning it in!
 
