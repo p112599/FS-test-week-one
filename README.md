@@ -11,16 +11,34 @@ This assessment tests your understanding of loops, objects, arrays, and basic fu
   - Use your whiteboard to draw the problem.
   - Write pseudocode before writing code.
 
+## Self-Assessment
+Give yourself a grade for each question. Explain why you gave yourself that grade.
+
 | Grade  | Explanation              |
 | :----: | -------------------------|
-|   4    | I understood this completely and did not struggle answering it. |
-|   3    | I understood this completely and did not struggle answering it. |
-|   2    | I understood this completely and did not struggle answering it. |
-|   1    | I understood this completely and did not struggle answering it. |
+|   4    | I understood this completely and did not struggle answering it.    |
+|   3    | I think I did well, but I didn't totally understand why it worked. |
+|   2    | I think I was close, but I didn't get the answer. |
+|   1    | I am struggling with this question. |
+|   0    | I did not attempt this question (explain why) |
 
+### 1. Palindrome
+- Grade: 
+- Explanation:
 
-## Self-Assessment
-  - Grade yourself 
-  - Write pseudocode before writing code.
+### 2. Add grid items
+- Grade: 
+- Explanation:
 
+### 3. Create file name string
+- Grade: 
+- Explanation:
+
+### 4. Create chessboard
+- Grade: 
+- Explanation:
+
+### 5. Check valid parentheses
+- Grade: 
+- Explanation:
 
