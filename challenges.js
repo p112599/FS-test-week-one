@@ -1,28 +1,5 @@
 /*------------------
 1)
-Write a function that determines
-if a number is a palindrome. A number is a
-palindrome if it reads the same forwards and
-backwards. 
-
-Note:
-- All negative numbers should return false.
-- Single numbers should return true.
-
-Test cases:
-console.log(isPalindrome(12321)); // true
-console.log(isPalindrome(-12321)); // false
-console.log(isPalindrome(1)); // true
-console.log(isPalindrome(84146)); // false
-console.log(isPalindrome(12)); // false
-------------------*/
-
-function isPalindrome(num) {
-
-}
-
-/*------------------
-2)
 Create a function that takes a grid
 as an argument and adds all the numbers
 in that grid together.
@@ -40,7 +17,7 @@ function addGridItems(grid) {
 }
 
 /*------------------
-3)
+2)
 Create a function that turns a string into a
 file name: all letters are lowercase, spaces are
 swapped for underscores, and it includes a
@@ -64,6 +41,28 @@ function createFileName() {
 
 }
 
+/*------------------
+3)
+Write a function that determines
+if a number is a palindrome. A number is a
+palindrome if it reads the same forwards and
+backwards. 
+
+Note:
+- All negative numbers should return false.
+- Single numbers should return true.
+
+Test cases:
+console.log(isPalindrome(12321)); // true
+console.log(isPalindrome(-12321)); // false
+console.log(isPalindrome(1)); // true
+console.log(isPalindrome(84146)); // false
+console.log(isPalindrome(12)); // false
+------------------*/
+
+function isPalindrome(num) {
+
+}
 
 /*------------------
 4)
