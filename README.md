@@ -38,8 +38,3 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 ### 4. Create chessboard
 - Grade: 
 - Explanation:
-
-### 5. Check valid parentheses
-- Grade: 
-- Explanation:
-
