@@ -1,4 +1,4 @@
-# Intro to JavaScript Assessment
+# Full Stack Development Test - Week One
 
 This assessment tests your understanding of loops, objects, arrays, and basic functions.
 
