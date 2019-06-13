@@ -3,16 +3,16 @@
 This assessment tests your understanding of loops, objects, arrays, and basic functions.
 
 ## Guidelines
-  - Do not use any presentations from the class or any notes you have taken.
-  - **You may NOT look at code you have previously written**.
-  - The only resource you may use online is the [MDN docs](https://developer.mozilla.org/en-US/).
-  - Make sure you give yourself a grade before turning it in!
+
+- In case you copy previously written code, you should be able to explain it on the white board
 
 ## Tips
-  - Use your whiteboard to draw the problem.
-  - Write pseudocode before writing code.
+
+- Use your whiteboard to draw the problem
+- Write pseudocode before writing code.
 
 ## Self-Assessment
+
 Give yourself a grade for each question. Explain why you gave yourself that grade.
 
 | Grade  | Explanation              |
@@ -24,17 +24,21 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 |   0    | I did not attempt this question (explain why) |
 
 ### 1. Palindrome
-- Grade: 
+
+- Grade:
 - Explanation:
 
 ### 2. Add grid items
-- Grade: 
+
+- Grade:
 - Explanation:
 
-### 3. Create file name string
-- Grade: 
+### 3. Create file name string in CamelCase
+
+- Grade:
 - Explanation:
 
-### 4. Create chessboard
-- Grade: 
+### 4. Create pattern
+
+- Grade:
 - Explanation:
