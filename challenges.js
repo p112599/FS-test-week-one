@@ -17,9 +17,7 @@ console.log(isPalindrome(84146)); // false
 console.log(isPalindrome(12)); // false
 ------------------*/
 
-function isPalindrome(num) {
-
-}
+function isPalindrome(num) {}
 
 /*------------------
 2)
@@ -35,9 +33,7 @@ const x = [[[1, 0, -3], [2, 4], [3]], [[4, 4, 3], [5, -3, -1], [6, 10]], [[7, -5
 console.log(addGridItems(x)); // 50
 ------------------*/
 
-function addGridItems(grid) {
-
-}
+function addGridItems(grid) {}
 
 /*------------------
 3)
@@ -55,14 +51,12 @@ the extensions below:
 - JSON: .json
 
 Examples:
-console.log(createFileName("Sofia Engineering Resume", "PDF")); // "sofiaEngineeringResume.pdf"
-console.log(createFileName("Sofia Profile Photo", "image")); // "sofiaProfilePhoto.png"
-console.log(createFileName("Data from Pokemon API", "JSON")); // "dataFromPokemonApi.json"
+console.log(createFileName("Sofia Engineering Resume", "PDF")); // "sofia_engineering_resume.pdf"
+console.log(createFileName("Sofia Profile Photo", "image")); // "sofia_profile_photo.png"
+console.log(createFileName("Data from Pokemon API", "JSON")); // "data_from_pokemon_api.json"
 ------------------*/
 
-function createFileName() {
-
-}
+function createFileName() {}
 
 /*------------------
 4) Print the following pattern
