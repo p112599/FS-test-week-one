@@ -25,20 +25,20 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 
 ### 1. Palindrome
 
-- Grade:
-- Explanation:
+- Grade: 3
+- Explanation: I struggeled to do this, the only reason why I did it, was due to similar homework.
 
 ### 2. Add grid items
 
-- Grade:
-- Explanation:
+- Grade: 2
+- Explanation: I think I was close, but I didn't get the answer. It was difficult, we never did anything similar so I struggeled.
 
 ### 3. Create file name string in CamelCase
 
-- Grade:
-- Explanation:
+- Grade: 0
+- Explanation: It was too difficult, we never even discussed how to something similar. 
 
 ### 4. Create pattern
 
-- Grade:
-- Explanation:
+- Grade: 2
+- Explanation: I coudn't finish this exercise- I wasn't sure how to do it.
